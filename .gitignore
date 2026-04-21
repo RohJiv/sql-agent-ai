@@ -1,6 +1,13 @@
 .env
+.env.local
+.streamlit/secrets.toml
 __pycache__/
 *.pyc
+*.pyo
 chroma_db/
 *.db
-.streamlit/secrets.toml
+test.pdf
+*.pdf
+uploads/
+.venv/
+ai_env/
