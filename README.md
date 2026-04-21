@@ -181,7 +181,7 @@ This pattern powers:
 **Phani Rajiv G**
 Technical Program Manager | Cloud & AI Platforms
 📍 Hyderabad, India
-📧 phani.rg@outlook.com
+📧 phani.rg@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/phanirajivg)
 
 ---
